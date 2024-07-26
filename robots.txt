@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://randpaug.github.io/sitemap.html.gz
+Sitemap: https://randpaug.github.io/app/sitemap.html.gz
+Sitemap: https://randpaug.github.io/assets/sitemap.html.gz
+Sitemap: https://randpaug.github.io/css/sitemap.html.gz
+Sitemap: https://randpaug.github.io/includes/sitemap.html.gz
+Sitemap: https://randpaug.github.io/item/sitemap.html.gz
+Sitemap: https://randpaug.github.io/src/sitemap.html.gz
